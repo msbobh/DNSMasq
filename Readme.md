@@ -1,0 +1,1 @@
+DNS masq configuration file for raspberry pie and home lan
